@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">baseapp</string>
+    <string name="load_more_end">๏∸๏ This is the end～</string>
+    <string name="agin_press">Press again to return to the desktop</string>
+</resources>

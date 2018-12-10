@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="windowBackground">@color/background</color>
+    <color name="navigationBarColor">@color/background</color>
+
+    <color name="background">#f5f5f5</color>
+    <!--间隔线颜色-->
+    <color name="line">#EEEEEE</color>
+</resources>
